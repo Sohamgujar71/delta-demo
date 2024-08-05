@@ -1,2 +1,2 @@
 # delta-demo
-demo of my repository
+demo of my repository updated
